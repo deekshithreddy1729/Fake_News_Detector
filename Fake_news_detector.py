@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 24 04:32:42 2020
 
-@author: karth
+@author: deekshith
 """
 
 # Importing the libraries
